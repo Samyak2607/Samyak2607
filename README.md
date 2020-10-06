@@ -1,4 +1,4 @@
-### Hi there, I'm Samyak Jain <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"></h1>
+<h1> Hi there, I'm Samyak Jain <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"></h1>
 
 <!--
 **Samyak2607/Samyak2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
