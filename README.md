@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 <tbody>
  <tr>
   <td align="center" width="35%">
-  <span><a href = "https://github.com/Samyak2607"><b><center>Hackerrank</center></b></a></span>
+  <span><a href = "https://hackerrank.com/Samyak2607"><b><center>Hackerrank</center></b></a></span>
   <img height=60px src="https://img.icons8.com/windows/32/000000/hackerrank.png"> 
   </td>
   <td align="center" width="35%">
-  <span><b><center>Hackerrank</center></b></span>
-  <img height=60px src="https://img.icons8.com/windows/32/000000/hackerrank.png"> 
+  <span><a href = "https://github.com/Samyak2607"><b><center>Github</center></b></a></span>
+  <img height=60px src="https://img.icons8.com/fluent/32/000000/github.png"> 
   </td>
  </tr>
  </tbody>
