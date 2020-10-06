@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <td align="center" width="35%">
 <span><b><center>Django Framework</center></b></span>
-<img height=60px src="<img src="https://img.icons8.com/ios-filled/50/000000/django.png"> 
+<img height=60px src="https://img.icons8.com/ios-filled/50/000000/django.png"> 
 </td>
 
 <td align="center" width="35%">
