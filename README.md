@@ -32,6 +32,9 @@ Here are some ideas to get you started:
   <img height=60px src="https://img.icons8.com/windows/32/000000/hackerrank.png"> 
   </td>
  </tr>
+ </tbody>
+</table>
+</br>
 
 ### Activity:
 
