@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </table>
 </br>
 
-### Activity:
+### Skills:
 
 <br>
 <table>
