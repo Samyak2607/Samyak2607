@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">नमस्ते (Namaste)🙏</h1>
  
  
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Samyak2607)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samyak-jain-5ba149160/)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40iam_samyak)](https://twitter.com/iam_samyak)
+
 [![Generic badge](https://img.shields.io/badge/Resume%3F-Here-<black>.svg)](https://drive.google.com/file/d/16s7ao6G6uVWXQTSM738Sy3cM0D44boch/view?usp=sharing)
 
 ### Platform:
@@ -36,6 +34,20 @@ Here are some ideas to get you started:
   <img height=60px src="https://img.icons8.com/fluent/32/000000/github.png"> 
   </td>
  </tr>
+ 
+ <tr>
+  <td align="center" width="35%">
+  <span><a href = "https://www.linkedin.com/in/samyak-jain-5ba149160/"><b><center>LinkedIn</center></b></a></span>
+  <img height=60px src="https://img.icons8.com/fluent/48/000000/linkedin.png"> 
+  </td>
+  
+  <td align="center" width="35%">
+  <span><a href = "https://twitter.com/iam_samyak"><b><center>Twitter</center></b></a></span>
+  <img height=60px src="https://img.icons8.com/fluent/48/000000/twitter.png"> 
+  </td>
+  
+ </tr>
+ 
  </tbody>
 </table>
 </br>
