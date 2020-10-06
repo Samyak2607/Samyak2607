@@ -1,4 +1,4 @@
-### Hi there, I'm Samyak Jain 👋
+### Hi there, I'm Samyak Jain <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"></h1>
 
 <!--
 **Samyak2607/Samyak2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Samyak Jain!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"></h1>
+<h1 align="center">नमस्ते (Namaste)🙏</h1>
  
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Samyak2607)
