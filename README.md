@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samyak-jain-5ba149160/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samyakjain0888@gmail.com)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40iam_samyak)](https://twitter.com/iam_samyak)
-[![Generic badge](https://img.shields.io/badge/Resume%3F-Here-<blue>.svg)](https://drive.google.com/file/d/16s7ao6G6uVWXQTSM738Sy3cM0D44boch/view?usp=sharing)
+[![Generic badge](https://img.shields.io/badge/Resume%3F-Here-<black>.svg)](https://drive.google.com/file/d/16s7ao6G6uVWXQTSM738Sy3cM0D44boch/view?usp=sharing)
 
 ### Activity:
 
@@ -34,27 +34,19 @@ Here are some ideas to get you started:
 <span><b><center>Django Framework</center></b></span>
 <img height=60px src="https://drive.google.com/file/d/1cHoTo9OzMyf7icXcVkEWEQrmTAx9sqGI/view?usp=sharing"/> 
 </td>
-
-<td align="center" width="35%">
-<span><b><center>Flutter</center></b></span>
-<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
-</td>
-
-</tr>
-
-<tr>
-
-
 <td align="center" width="35%">
 <span><b><center>Git</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 
 <td align="center" width="35%">
-<span><b><center>SQL</center></b></span> 
+<span><b><center>Flask</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td>
+
+
 </tr>
+
 
 <tr>
 
@@ -70,6 +62,11 @@ Here are some ideas to get you started:
 <img height=65px src="https://img.icons8.com/color/2x/python.png"> 
 </td>
 
+<td align="center" width="35%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+</td>
+
 </tr>
 
 <tr>
@@ -81,6 +78,11 @@ Here are some ideas to get you started:
 <td align="center" width="35%">
 <span><b><center>CSS</center></b></span> 
 <img src="https://img.icons8.com/dusk/64/000000/css3.png">
+</td>
+
+<td align="center" width="35%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
 
 </tr>
