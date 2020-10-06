@@ -32,17 +32,20 @@ Here are some ideas to get you started:
 
 <td align="center" width="35%">
 <span><b><center>Django Framework</center></b></span>
-<img height=60px src="https://drive.google.com/file/d/1cHoTo9OzMyf7icXcVkEWEQrmTAx9sqGI/view?usp=sharing"/> 
+<img height=60px src="<img src="https://img.icons8.com/ios-filled/50/000000/django.png"/>"/> 
 </td>
+
+<td align="center" width="35%">
+<span><b><center>Flask</center></b></span> 
+<img height=65px src="https://miro.medium.com/max/640/1*XzIRJGujfqAiOV2EIQgR_Q.png"> 
+</td>
+
 <td align="center" width="35%">
 <span><b><center>Git</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 
-<td align="center" width="35%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-</td>
+
 
 
 </tr>
