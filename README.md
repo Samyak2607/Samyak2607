@@ -18,39 +18,9 @@ Here are some ideas to get you started:
  
  
 
-[![Generic badge](https://img.shields.io/badge/Resume%3F-Here-<black>.svg)](https://drive.google.com/file/d/16s7ao6G6uVWXQTSM738Sy3cM0D44boch/view?usp=sharing)
+[![Generic badge](https://img.shields.io/badge/Resume%3F-Here-<green>.svg)](https://drive.google.com/file/d/16s7ao6G6uVWXQTSM738Sy3cM0D44boch/view?usp=sharing)
 
-### Platform:
-<br>
-<table>
-<tbody>
- <tr>
-  <td align="center" width="35%">
-  <span><a href = "https://hackerrank.com/Samyak2607"><b><center>Hackerrank</center></b></a></span>
-  <img height=60px src="https://img.icons8.com/windows/32/000000/hackerrank.png"> 
-  </td>
-  <td align="center" width="35%">
-  <span><a href = "https://github.com/Samyak2607"><b><center>Github</center></b></a></span>
-  <img height=60px src="https://img.icons8.com/fluent/32/000000/github.png"> 
-  </td>
- </tr>
- 
- <tr>
-  <td align="center" width="35%">
-  <span><a href = "https://www.linkedin.com/in/samyak-jain-5ba149160/"><b><center>LinkedIn</center></b></a></span>
-  <img height=60px src="https://img.icons8.com/fluent/48/000000/linkedin.png"> 
-  </td>
-  
-  <td align="center" width="35%">
-  <span><a href = "https://twitter.com/iam_samyak"><b><center>Twitter</center></b></a></span>
-  <img height=60px src="https://img.icons8.com/fluent/48/000000/twitter.png"> 
-  </td>
-  
- </tr>
- 
- </tbody>
-</table>
-</br>
+
 
 ### Skills:
 
