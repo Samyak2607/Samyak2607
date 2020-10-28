@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">नमस्ते (Namaste)🙏</h1>
+<br>
+<br>
 ### About Myself:
+
 <br>
 <h3> Coding Enthusiasts and part of organizing Hackathon known as HackIndore2.O. Love to play kind of lots of sports like volleyball, table tennis, chess, and badminton too. An active member of the club #include the techno-learning club of SGSITS, Indore.</h3>
- 
+<br>
+<br>
  
 
 [![Generic badge](https://img.shields.io/badge/Resume%3F-Here-<green>.svg)](https://drive.google.com/file/d/16s7ao6G6uVWXQTSM738Sy3cM0D44boch/view?usp=sharing)
