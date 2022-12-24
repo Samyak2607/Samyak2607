@@ -32,7 +32,7 @@
 
 <td align="center" width="35%">
 <span><b><center>Microsoft PowerBI</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/144/null/power-bi.png">
+<img height=65px src="https://img.icons8.com/color/50/null/power-bi.png">
 </td>
 
 
@@ -51,7 +51,7 @@
 
 <td align="center" width="35%">
 <span><b><center>Scikit-Learn</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/50/null/learning.png"> 
+<img height=65px src="https://img.icons8.com/fluency/48/null/learn-information.png"> 
 </td>
 
 
@@ -65,12 +65,12 @@
 <tr>
 <td align="center" width="35%">
 <span><b><center>Azure</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/144/null/azure-1.png"> 
+<img height=65px src="https://img.icons8.com/color/50/null/azure-1.png"> 
 </td>
 
 <td align="center" width="35%">
 <span><b><center>Kubernetes</center></b></span> 
-<img src="https://img.icons8.com/color/144/null/kubernetes.png">
+<img src="https://img.icons8.com/color/50/null/kubernetes.png">
 </td>
 
 <td align="center" width="35%">
