@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
  
 
-(https://img.shields.io/badge/%3F-Resume-<red>.svg)](https://drive.google.com/drive/folders/15OAzOFRABFlsHEoON2Jig9Pdc7J9QCE7?usp=share_link)
+
+[![Generic badge]](https://img.shields.io/badge/%3F-Resume-<red>.svg)](https://drive.google.com/drive/folders/15OAzOFRABFlsHEoON2Jig9Pdc7J9QCE7?usp=share_link)
 
 
 
